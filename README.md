@@ -1,2 +1,2 @@
 # Hungarian Discover EU
-Ez egy fiktív munka egy fiktív cég számára
+Egy fiktív munka egy fiktív cég számára
